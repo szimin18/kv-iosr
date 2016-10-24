@@ -10,3 +10,4 @@ Authors: Tomasz Legutko, Szymon Łabuz
 
 1. Required Java Runtime 1.6 or later.
 2. Execute `./bin/activator run` (or `activator.bat` on Windows)
+3. Select either client or server to run.
