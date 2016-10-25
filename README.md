@@ -1,6 +1,6 @@
 # kv-iosr
 
-Distributed key-value store implemented in Scala using Akka Cluster Sharding.
+Distributed key-value store implemented in Scala using Akka Cluster.
 
 ## IOSR Project
 
